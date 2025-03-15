@@ -1,6 +1,4 @@
 ## Hi there 👋 
-# Yifei-Lexie-Li - Business Analytics & Data Science
-
 I’m **Yifei-Lexie-Li**, currently completing my **Master’s degree in Business Analytics** at **UC Davis**. I hold a **Bachelor’s degree in Financial Management**.
 
 ## 🛠️ Key Skills & Expertise
@@ -24,9 +22,7 @@ I am passionate about leveraging my skills in **data-driven roles** and contribu
 ## 🌱 Current Focus
 I’m actively seeking opportunities where I can apply my **analytical expertise** and contribute to innovative projects within collaborative teams.
 
-📫 Feel free to reach out to me at **lexiekkaaye@gmail.com** for professional inquiries or opportunities where my skills can make a meaningful impact!
-
-
+📫 Feel free to reach out to me for professional inquiries or opportunities where my skills can make a meaningful impact!
 📧 Email: [lexiekkaaye@gmail.com]  
 🔗 LinkedIn: [www.linkedin.com/in/yifeilexie]  
 *Feel free to connect with me!*  
@@ -56,21 +52,6 @@ Developed **dashboards and statistical models** to track **spending trends** acr
 Conducted in-depth analysis and authored a **130+ page trade policy review**, which contributed to an **18% increase in trading volume**.  
 
 ---
-
-## 💻 Skills  
-
-### 🔍 Data Science & Analytics  
-**SQL, Python, R, STATA, SPSS, SAS, Excel, Power BI, Tableau, Google Analytics**  
-
-### 🤖 Machine Learning & Statistical Modeling  
-**Time Series Regression, Random Forests, Predictive Analytics, A/B Testing, Bayesian Statistics**  
-
-### 🏗 Data Engineering & Cloud Computing  
-**AWS, Snowflake, BigQuery, ETL Pipelines, Data Governance**  
-
-### 📊 Mathematics & Quantitative Analysis  
-**Optimization, Markov Chains, Game Theory, Regression Analysis**  
-
 🚀 *Always eager to explore new data-driven solutions and collaborate on impactful projects!*
 
 <!--
