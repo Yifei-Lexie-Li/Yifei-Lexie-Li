@@ -33,8 +33,8 @@ This project employs transformer-based models to develop a medical chatbot capab
 This project implements the K-Means clustering algorithm from scratch, without using pre-built clustering functions. The goal is to cluster the Iris dataset based on its numeric features and analyze the clustering performance.
 
 ### 🐩 [Foster Pet Matching System](https://github.com/Yifei-Lexie-Li/Foster-Pet-Matching-System)
-**Tools:** SQL, Python, Power BI, A/B Testing Frameworks  
-Designed and analyzed **A/B tests** to refine **digital marketing strategies**, leading to a **26% increase in monthly sales volume**.  
+**Tools:** Python, Pandas, BeautifulSoup, Requests, API Handling, Matplotlib, Seaborn, Plotly 
+This project is a Foster Pet Matching System that combines API data retrieval, web scraping, and a matching algorithm to provide accurate pet adoption recommendations**.  
 
 ### 🎮 Consumer Spending Trends in Gaming: Data-Driven Insights  
 **Tools:** SQL, R, Tableau, Statistical Modeling  
