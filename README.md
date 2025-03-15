@@ -28,11 +28,11 @@ I’m actively seeking opportunities where I can apply my **analytical expertise
 This project employs transformer-based models to develop a medical chatbot capable of answering healthcare-related queries. By fine-tuning on a domain-specific dataset, the chatbot delivers context-aware responses on symptoms, treatments, and medications.
 
 
-### 💡 [Implementing K-Means Clustering from Scratch](https://github.com/Yifei-Lexie-Li/K-means-clustering)  
+### 🦜 [Implementing K-Means Clustering from Scratch](https://github.com/Yifei-Lexie-Li/K-means-clustering)  
 **Tools:** Python, NumPy, Pandas, Matplotlib, Scikit-Learn
 This project implements the K-Means clustering algorithm from scratch, without using pre-built clustering functions. The goal is to cluster the Iris dataset based on its numeric features and analyze the clustering performance.
 
-### 🛒 E-commerce A/B Testing: Optimizing Digital Campaigns  
+### 🐩 [Foster Pet Matching System](https://github.com/Yifei-Lexie-Li/Foster-Pet-Matching-System)
 **Tools:** SQL, Python, Power BI, A/B Testing Frameworks  
 Designed and analyzed **A/B tests** to refine **digital marketing strategies**, leading to a **26% increase in monthly sales volume**.  
 
