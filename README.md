@@ -1,7 +1,7 @@
-## Hi there 👋 
+## Hi 🩵
 I’m **Yifei-Lexie-Li**, currently completing my **Master’s degree in Business Analytics** at **UC Davis**. I hold a **Bachelor’s degree in Financial Management**.
 
-## 🛠️ Key Skills & Expertise
+## 🎨 Key Skills & Expertise
 - **Data Visualization**
 - **Statistical Modeling**
 - **Business Intelligence**
@@ -19,7 +19,7 @@ With **2 years of experience** in **data analysis** and **finance**, I’ve work
 
 I am passionate about leveraging my skills in **data-driven roles** and contributing to teams that value **innovation** and **data-informed decision-making**.
 
-## 🌱 Current Focus
+## 🐻‍❄️ Current Focus
 I’m actively seeking opportunities where I can apply my **analytical expertise** and contribute to innovative projects within collaborative teams.
 
 📫 Feel free to reach out to me for professional inquiries or opportunities where my skills can make a meaningful impact!
@@ -29,7 +29,7 @@ I’m actively seeking opportunities where I can apply my **analytical expertise
 
 ---
 
-## 👨‍💻 Projects  
+## 🌈 Projects  
 
 ### 📊 Predicting Mortality Trends: Data-Driven Insights for Healthcare Policy  
 **Tools:** Python, Random Forest, Time Series Regression, Pandas, Scikit-Learn, Tableau  
