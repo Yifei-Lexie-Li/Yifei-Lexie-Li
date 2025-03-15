@@ -40,9 +40,9 @@ This project is a Foster Pet Matching System that combines API data retrieval, w
 **Tools:** Python, XGBoost, Random Forest, LightGBM 
 This project analyzes the Urban Heat Island (UHI) effect in New York City using machine learning (XGBoost, Random Forest, LightGBM  and Sentinel-2 satellite imagery to identify temperature hotspots and key environmental factors**.  
 
-### 🛢️ Commodity Market Research: Policy Evaluation & Trading Strategy  
-**Tools:** VBA, Excel, Financial Modeling  
-Conducted in-depth analysis and authored a **130+ page trade policy review**, which contributed to an **18% increase in trading volume**.  
+### 🏦 [UHI Index Prediction](https://github.com/Yifei-Lexie-Li/Credit-Fraud-Detection)
+**Tools:** Python, Logistic Regression with Regularization, Pandas, NumPy, Scikit-learn
+This project focuses on detecting fraudulent credit card transactions from a highly imbalanced dataset, where only a small fraction of transactions are fraudulent. By applying machine learning algorithms and addressing the challenges of imbalanced data, this system aims to accurately classify transactions as fraudulent or legitimate**.  
 
 ---
 🚀 *Always eager to explore new data-driven solutions and collaborate on impactful projects!*
