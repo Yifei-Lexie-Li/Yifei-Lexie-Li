@@ -23,7 +23,7 @@ I’m actively seeking opportunities where I can apply my **analytical expertise
 
 ## 🌈 Projects  
 
-### 📊 [Predicting Mortality Trends: Data-Driven Insights for Healthcare Policy](https://github.com/Yifei-Lexie-Li/Medical-query-chatbot)
+### 🤖 [Medical Query Chatbot - Enhancing Healthcare Assistance with AI](https://github.com/Yifei-Lexie-Li/Medical-query-chatbot)
 
 **Tools:** Python, Random Forest, Time Series Regression, Pandas, Scikit-Learn, Tableau  
 Built predictive models to analyze **mortality trends** and identify **key risk factors**, generating actionable insights to support healthcare policy improvements.  
