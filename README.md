@@ -1,5 +1,31 @@
-## Hi there 👋 I'm Yifei-Lexie Li!
-This portfolio showcases my work in **Data Science** and **Data Analytics**, spanning academic research, self-learning projects, and professional experience. It highlights my expertise in **data-driven decision-making**, **machine learning**, and **business intelligence** across industries like healthcare, e-commerce, and finance.
+## Hi there 👋 
+# Yifei-Lexie-Li - Business Analytics & Data Science
+
+I’m **Yifei-Lexie-Li**, currently completing my **Master’s degree in Business Analytics** at **UC Davis**. I hold a **Bachelor’s degree in Financial Management**.
+
+## 🛠️ Key Skills & Expertise
+- **Data Visualization**
+- **Statistical Modeling**
+- **Business Intelligence**
+- **SQL**
+- **Python**  
+- **Tableau** & **Power BI**
+
+I focus on using **Python** and advanced tools like **Tableau** and **Power BI** to turn complex data into actionable insights that drive business decisions.
+
+## 💼 Experience
+With **2 years of experience** in **data analysis** and **finance**, I’ve worked on projects such as:
+- **Predictive modeling**
+- **Market analysis**
+- **Data-driven strategy optimization**
+
+I am passionate about leveraging my skills in **data-driven roles** and contributing to teams that value **innovation** and **data-informed decision-making**.
+
+## 🌱 Current Focus
+I’m actively seeking opportunities where I can apply my **analytical expertise** and contribute to innovative projects within collaborative teams.
+
+📫 Feel free to reach out to me at **lexiekkaaye@gmail.com** for professional inquiries or opportunities where my skills can make a meaningful impact!
+
 
 📧 Email: [lexiekkaaye@gmail.com]  
 🔗 LinkedIn: [www.linkedin.com/in/yifeilexie]  
