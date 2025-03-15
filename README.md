@@ -1,12 +1,8 @@
 ## Hi 🩵
 I’m **Yifei-Lexie-Li**, currently completing my **Master’s degree in Business Analytics** at **UC Davis**. I hold a **Bachelor’s degree in Financial Management**.
-
-## 🎨 Key Skills & Expertise
-- **Data Visualization&Statistical Modeling&Business Intelligence&SQL&Python&Tableau&Power BI**
-
 I focus on using **Python** and advanced tools like **Tableau** and **Power BI** to turn complex data into actionable insights that drive business decisions.
 
-## 💼 Experience
+## 🎨 Experience
 With **2 years of experience** in **data analysis** and **finance**, I’ve worked on projects such as:
 - **Predictive modeling**
 - **Market analysis**
