@@ -29,8 +29,8 @@ This project employs transformer-based models to develop a medical chatbot capab
 
 
 ### 💡 [Implementing K-Means Clustering from Scratch](https://github.com/Yifei-Lexie-Li/K-means-clustering)  
-**Tools:** SQL, Excel, Tableau, Python  
-Performed an **exploratory analysis** of **Medi-Cal enrollment data** for over **1 million Californians**, improving data **completeness and accuracy by 24%**.  
+**Tools:** Python, NumPy, Pandas, Matplotlib, Scikit-Learn
+This project implements the K-Means clustering algorithm from scratch, without using pre-built clustering functions. The goal is to cluster the Iris dataset based on its numeric features and analyze the clustering performance.
 
 ### 🛒 E-commerce A/B Testing: Optimizing Digital Campaigns  
 **Tools:** SQL, Python, Power BI, A/B Testing Frameworks  
