@@ -36,9 +36,9 @@ This project implements the K-Means clustering algorithm from scratch, without u
 **Tools:** Python, Pandas, BeautifulSoup, Requests, API Handling, Matplotlib, Seaborn, Plotly 
 This project is a Foster Pet Matching System that combines API data retrieval, web scraping, and a matching algorithm to provide accurate pet adoption recommendations**.  
 
-### 🎮 Consumer Spending Trends in Gaming: Data-Driven Insights  
-**Tools:** SQL, R, Tableau, Statistical Modeling  
-Developed **dashboards and statistical models** to track **spending trends** across different games, identifying key drivers of **revenue growth**.  
+### 🌃 [UHI Index Prediction](https://github.com/Yifei-Lexie-Li/Urban-Heat-Island-Prediction/tree/main)
+**Tools:** Python, XGBoost, Random Forest, LightGBM 
+This project analyzes the Urban Heat Island (UHI) effect in New York City using machine learning (XGBoost, Random Forest, LightGBM  and Sentinel-2 satellite imagery to identify temperature hotspots and key environmental factors**.  
 
 ### 🛢️ Commodity Market Research: Policy Evaluation & Trading Strategy  
 **Tools:** VBA, Excel, Financial Modeling  
