@@ -28,7 +28,7 @@ I’m actively seeking opportunities where I can apply my **analytical expertise
 This project employs transformer-based models to develop a medical chatbot capable of answering healthcare-related queries. By fine-tuning on a domain-specific dataset, the chatbot delivers context-aware responses on symptoms, treatments, and medications.
 
 
-### 💡 Medi-Cal Enrollment Analysis: Improving Data Quality & Coverage  
+### 💡 [Implementing K-Means Clustering from Scratch](https://github.com/Yifei-Lexie-Li/K-means-clustering)  
 **Tools:** SQL, Excel, Tableau, Python  
 Performed an **exploratory analysis** of **Medi-Cal enrollment data** for over **1 million Californians**, improving data **completeness and accuracy by 24%**.  
 
