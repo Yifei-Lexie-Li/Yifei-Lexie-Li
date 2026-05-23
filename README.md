@@ -3,7 +3,7 @@ I’m **Yifei-Lexie-Li**, currently completing my **Master’s degree in Busines
 I focus on using **Python** and advanced tools like **Tableau** and **Power BI** to turn complex data into actionable insights that drive business decisions.
 
 ## 🎨 Experience
-With **2 years of experience** in **data analysis** and **finance**, I’ve worked on projects such as:
+With **2 years of experience** in **data science** and **finance**, I’ve worked on projects such as:
 - **Predictive modeling**
 - **Market analysis**
 - **Data-driven strategy optimization**
