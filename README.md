@@ -22,6 +22,12 @@ I’m actively seeking opportunities where I can apply my **analytical expertise
 ---
 
 ## 🌈 Projects  
+### 🤖 [AI Data Analysis Agent – Building an AI Assistant for Analytics Workflows](https://github.com/Yifei-Lexie-Li/ai-data-analysis-agent)
+
+**Tools:** Python, LangChain, OpenAI API, Pandas, SQL, Streamlit
+
+This project develops an AI data analysis agent that translates natural language business questions into structured analytical workflows. The agent decomposes user requests, generates SQL or Python logic, performs data analysis, and produces concise insight summaries. It demonstrates how LLM-based agents can support data teams by automating repetitive reporting and exploratory analysis tasks.
+
 
 ### 🤖 [Medical Query Chatbot - Enhancing Healthcare Assistance with AI](https://github.com/Yifei-Lexie-Li/Medical-query-chatbot) 
 **Tools:** Transformers, Python, TensorFlow, PyTorch
